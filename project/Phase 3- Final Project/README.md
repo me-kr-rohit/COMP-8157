@@ -25,18 +25,9 @@ https://public.tableau.com/app/profile/harbhajan.singh/viz/Rational-ADT-SalesPro
 
 https://public.tableau.com/app/profile/harbhajan.singh/viz/Rational-ADT-SalesProfitSalesForecast/RetailDataAnalysisProfit-Loss-ForecastingSales?publish=yes
  
-GitHub:
-https://github.com/Manjinder-Singh/AdvancedDatabaseTopics
-
 Also, our team would like to express our sincere gratitude and appreciation to our professor, Dr. Shafaq Khan, for her invaluable guidance, support, and encouragement throughout the course of this research project. Her expertise, insightful feedback, and continuous encouragement have been instrumental in shaping the direction of this study.
 
 Lastly, if there are any issues or concerns related to the project work, please feel free to reach out to me or any of the team members.
 
-# Team Member Involved:#
-Harbhajan Singh
-Navjot Makkar
-Manjinder Singh
-Rohit Kumar
-
-Thanks and Regards,
+Warm Regards,
 Rohit Kumar
